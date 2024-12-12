@@ -1,4 +1,4 @@
-# Thriwe Automation Testing
+# Automation Testing
 PYTHON - PLAYRIGHT (HEADLESS)
 
 Here's a step-by-step guide to setting up a Python Playwright project from GitHub, installing dependencies, and running the test script:
