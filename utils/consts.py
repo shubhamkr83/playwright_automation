@@ -1,0 +1,3 @@
+HEADLESS = True
+TEST_CASE_INTERVAL = 2
+CONFIG_PATH_FOR_TEST_FILE = "../../config.json"

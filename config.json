@@ -1,0 +1,88 @@
+{
+    "COMMS": {
+        "base": "https://staging-india-api-gateway.thriwe.com/comms/send/communication",
+        "emails": [
+            "shubham.kumar@thriwe.com"
+        ]
+    },
+    "BRPL": {
+        "base": "https://brplrewards.thriwe.com/rewards?token=",
+        "tokens": [
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYU51bWJlciI6IjY4Njc4MzY4NiIsImN1c3RvbWVyTmFtZSI6IkFtaXQgTWFkYW4ifQ.X9U0RM_V2yivK8HFRg_2A2-dQPRlneLQXgbvy-Hl5FE",
+            "tokenB",
+            "tokenC"
+        ],
+        "home": "https://brplrewards.thriwe.com/home",
+        "history": "https://brplrewards.thriwe.com/history",
+        "terms": "https://brplrewards.thriwe.com/term-and-condition",
+        "faq": "https://brplrewards.thriwe.com/faq",
+        "privacy": "https://brplrewards.thriwe.com/privacypolicy",
+        "earnpoints": "https://brplrewards.thriwe.com/earnpoints",
+        "contact": "https://brplrewards.thriwe.com/contactus"
+    },
+    "BYPL": {
+        "base": "https://byplrewards.thriwe.com/rewards?token=",
+        "tokens": [
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYU51bWJlciI6IjE1MzY5NjY0MiIsImN1c3RvbWVyTmFtZSI6Ik1yLiBHT1BBTCAgQkhBUkRXQUoifQ.jpFSbO6TNLyP5WzdpiiK-5xsk3y8tZswdcanO_nvA-I",
+            "tokenD",
+            "tokenE"
+        ],
+        "home": "https://byplrewards.thriwe.com/home",
+        "history": "https://byplrewards.thriwe.com/history",
+        "terms": "https://byplrewards.thriwe.com/term-and-condition",
+        "faq": "https://byplrewards.thriwe.com/faq",
+        "privacy": "https://byplrewards.thriwe.com/privacypolicy",
+        "earnpoints": "https://byplrewards.thriwe.com/earnpoints",
+        "contact": "https://byplrewards.thriwe.com/contactus",
+        "redeem": "https://byplrewards.thriwe.com/rewards"
+    },
+    "EPIFI": {
+        "base": "https://epifi.thriwe.com/rewards?token=",
+        "tokens": [
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaVVzZXJJZCI6ImUxNGU4MDVlLTgyZWUtNDc2MS1iM2I5LWQ0MzY3OWMzMTNhNCJ9.zqVTcXjhPG70mRJfI1Ud4wa5RJxPue7_Hvpry9SN9Lg",
+            "tokenY",
+            "tokenZ"
+        ],
+        "home": "https://epifi.thriwe.com/dashboard"
+    },
+    "FAB": {
+        "login": "https://smerewards.bankfab.com/login",
+        "dashboard": "https://smerewards.bankfab.com/dashboard",
+        "claim_history": "https://smerewards.bankfab.com/history",
+        "profile": "https://smerewards.bankfab.com/profile",
+        "contact": "https://smerewards.bankfab.com/contact"
+    },
+    "EIB": {
+        "home": "https://emiratesislamic.thriwe.com/",
+        "offer_details": "https://emiratesislamic.thriwe.com/offer-details",
+        "booking": "https://emiratesislamic.thriwe.com/bookings",
+        "manage_profile": "https://emiratesislamic.thriwe.com/manage-profile"
+    },
+    "MASHREQ": {
+        "home": "https://mashreq.golflan.com/",
+        "about": "https://mashreq.golflan.com/about",
+        "booking": "https://mashreq.golflan.com/booking",
+        "faq": "https://mashreq.golflan.com/faq",
+        "terms": "https://mashreq.golflan.com/terms-and-conditions",
+        "contact": "https://mashreq.golflan.com/contact"
+    },
+    "RAK_BANK": {
+        "home": "https://rakgolfbenefits.thriwe.com/",
+        "profile": "https://rakgolfbenefits.thriwe.com/user/userProfile",
+        "play_now": "https://rakgolfbenefits.thriwe.com/user/playnow",
+        "past_games": "https://rakgolfbenefits.thriwe.com/user/playhistory",
+        "past_lessons": "https://rakgolfbenefits.thriwe.com/user/learnhistory"
+    },
+    "MARKETPLACE": {
+        "login": "https://marketplace-msig.thriwe.com/membership/membership",
+        "home": "https://marketplace-msig.thriwe.com/membership/membership/pass",
+        "history": "https://marketplace-msig.thriwe.com/membership/membership/booking-history",
+        "contact": "https://marketplace-msig.thriwe.com/membership/membership/contact-us"
+    },
+    "aws": {
+        "s3": {
+            "bucket": "test-automation-script-results",
+            "region": "ap-south-1"
+        }
+    }
+}

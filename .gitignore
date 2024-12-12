@@ -1,0 +1,8 @@
+.idea
+.venv
+.DS_Store
+.env
+# test*
+*.xlsx
+__pycache__/
+__pycache__

@@ -1,0 +1,169 @@
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Project Name     | Test Cases                                                                                             | Status   |   Status Code |
++==================+========================================================================================================+==========+===============+
+| BRPL             | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the History button to the History URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the Terms button to the Terms URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the FAQ button to the FAQ URL                       | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the Privacy button to the Privacy URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the Earnpoint button to the Earnpoint URL           | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BRPL             | URL Redirection Check: Checking the redirection of the Contact button to the Contact URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the History button to the History URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Terms button to the Terms URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the FAQ button to the FAQ URL                       | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Privacy button to the Privacy URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Earnpoint button to the Earnpoint URL           | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Contact button to the Contact URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| BYPL             | URL Redirection Check: Checking the redirection of the Redeem button to the Redeem URL                 | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| EPIFI            | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| EPIFI            | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| EPIFI            | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | URL Redirection Check: Checking the redirection of the Login button to the Login URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Login Check: Checking login for Wrong email and wrong password (Aim: Not Logged In)                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Login Check: Checking login for Wrong email and correct password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Login Check: Checking login for Correct email and wrong password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Login Check: Checking Login with correct email and correct password                                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Login Check: Checking button click after login (Rating Pop-up):                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | URL Redirection Check: Checking the redirection of the Dashboard button to the Dashboard URL           | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | URL Redirection Check: Checking the redirection of the Claim history button to the Claim history URL   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | URL Redirection Check: Checking the redirection of the Profile button to the Profile URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | URL Redirection Check: Checking the redirection of the Contact button to the Contact URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| FAB              | Checking Logout                                                                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | URL Redirection Check: Checking the redirection of the Login button to the Login URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Login Check: Checking login for Wrong email and wrong password (Aim: Not Logged In)                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Login Check: Checking login for Wrong email and correct password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Login Check: Checking login for Correct email and wrong password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Login Check: Checking Login with correct email and correct password                                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | URL Redirection Check: Checking the redirection of the Offer Details button to the Offer Details URL   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | URL Redirection Check: Checking the redirection of the Booking button to the Booking URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | URL Redirection Check: Checking the redirection of the Manage Profile button to the Manage Profile URL | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Emirates Islamic | Checking Logout                                                                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the Login button to the Login URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Login Check: Checking login for Wrong email and wrong password (Aim: Not Logged In)                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Login Check: Checking login for Wrong email and correct password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Login Check: Checking login for Correct email and wrong password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Login Check: Checking Login with correct email and correct password                                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the About button to the About URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the Booking button to the Booking URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the FAQ button to the FAQ URL                       | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the Terms button to the Terms URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | URL Redirection Check: Checking the redirection of the Contact button to the Contact URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Mashreq Golflan  | Checking Logout                                                                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | URL Redirection Check: Checking the redirection of the Login button to the Login URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Login Check: Checking login for Wrong email and wrong password (Aim: Not Logged In)                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Login Check: Checking login for Wrong email and correct password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Login Check: Checking login for Correct email and wrong password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Login Check: Checking Login with correct email and correct password                                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | URL Redirection Check: Checking the redirection of the Profile button to the Profile URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | URL Redirection Check: Checking the redirection of the Play Now button to the Play Now URL             | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | URL Redirection Check: Checking the redirection of the Past Lessons button to the Past Lessons URL     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Rak Bank         | Checking Logout                                                                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | nan                                                                                                    | nan      |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Page loaded                                                                                            | Passed   |           200 |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | URL Redirection Check: Checking the redirection of the Login button to the Login URL                   | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Login Check: Checking login for Wrong phone and wrong password (Aim: Not Logged In)                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Login Check: Checking login for Wrong phone and correct password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Login Check: Checking login for Correct phone and wrong password (Aim: Not Logged In)                  | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Login Check: Checking Login with correct email and correct password                                    | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | URL Redirection Check: Checking the redirection of the Home button to the Home URL                     | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | URL Redirection Check: Checking the redirection of the History button to the History URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | URL Redirection Check: Checking the redirection of the Contact button to the Contact URL               | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
+| Marketplace      | Checking Logout                                                                                        | Passed   |           nan |
++------------------+--------------------------------------------------------------------------------------------------------+----------+---------------+
